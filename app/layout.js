@@ -17,22 +17,22 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: 'كيان | KYAN',
-  description: 'استمتع بتجربة قهوة فريدة مع مجموعة متنوعة من المشروبات المميزة في كيان كافيه',
-  keywords: ['كيان كافيه', 'قهوة', 'مشروبات', 'كافيهات السعودية', 'قهوة مميزة'],
-  authors: [{ name: 'كيان كافيه' }],
+  title: 'KYAN Cafe',
+  description: 'Experience unique coffee with a diverse selection of distinctive drinks at KYAN Cafe',
+  keywords: ['KYAN Cafe', 'Coffee', 'Beverages', 'Saudi Cafes', 'Specialty Coffee'],
+  authors: [{ name: 'KYAN Cafe' }],
   openGraph: {
-    title: 'كيان | KYAN',
-    description: 'استمتع بتجربة قهوة فريدة مع مجموعة متنوعة من المشروبات المميزة',
+    title: 'KYAN Cafe',
+    description: 'Experience unique coffee with a diverse selection of distinctive drinks',
     url: 'https://kyancafe.com',
-    siteName: 'كيان كافيه',
-    locale: 'ar_SA',
+    siteName: 'KYAN Cafe',
+    locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'كيان | KYAN',
-    description: 'استمتع بتجربة قهوة فريدة مع مجموعة متنوعة من المشروبات المميزة',
+    title: 'KYAN Cafe',
+    description: 'Experience unique coffee with a diverse selection of distinctive drinks',
   },
   robots: 'index, follow',
 };
